@@ -1,0 +1,1 @@
+Using a writable stream you can read data5 from a readable stream 
