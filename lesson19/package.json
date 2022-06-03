@@ -1,0 +1,18 @@
+{
+  "name": "lesson19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "homework",
+    "lesson"
+  ],
+  "author": "Laura",
+  "license": "ISC",
+  "dependencies": {
+    "random": "^3.0.3"
+  }
+}
